@@ -1,0 +1,55 @@
+body{
+  background: url(http://wallpapercave.com/wp/5fSCm8i.jpg);
+  background-size: cover;
+}
+
+#cow{
+  height: 130px;
+  width: 15%;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  transition: all 1s;
+}
+
+#sheep{
+  height: 130px;
+  width: 15%;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  transition: all 1s;
+}
+
+#chicken{
+  height: 140px;
+  width: 15%;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  transition: all 1s;
+}
+
+#dog{
+  height: 140px;
+  width: 17%;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  transition: all 1s;
+
+}
+
+#pig{
+  height: 150px;
+  width: 15%;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  transition: all 1s;
+}
